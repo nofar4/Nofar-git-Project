@@ -1,0 +1,43 @@
+C:\Users\figma\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\figma\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\figma\source\repos\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.csprojAssemblyReference.cache
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.pdb
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.Game.resources
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.Dashboard.resources
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.About.resources
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.SignIn.resources
+C:\Users\figma\source\repos\GameTest\GameTest\obj\Debug\GameTest.SignUp.resources
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.csprojAssemblyReference.cache
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.About.resources
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.Dashboard.resources
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.Game.resources
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.SignIn.resources
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.SignUp.resources
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Dani\מנהל עסקים סמסטר ב\GameTest\GameTest\obj\Debug\GameTest.pdb
+C:\Dani\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Dani\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Dani\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.csproj.AssemblyReference.cache
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.csproj.SuggestedBindingRedirects.cache
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.About.resources
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.Dashboard.resources
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.Game.resources
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.SignIn.resources
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.SignUp.resources
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Dani\GameTest\GameTest\obj\Debug\GameTest.pdb
